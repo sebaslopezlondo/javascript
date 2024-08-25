@@ -5,6 +5,7 @@ Este repositorio está dedicado a documentar mi progreso y aprendizaje en JavaSc
 ## Requisitos
 
 - NodeJS Instalado en su dispostivo
+- IDE o editor de texto
 
 ## Uso
 
