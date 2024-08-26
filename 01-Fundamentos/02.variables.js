@@ -39,5 +39,5 @@ let apellido = "Lopez";
 console.log("Hola, me llamo", nombre, apellido);
 
 /*
- *
+ * var: Puede sobrescribir las variables que se encuentren en el objeto global Window
  */
