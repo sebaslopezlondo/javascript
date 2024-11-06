@@ -10,6 +10,7 @@ Este repositorio está dedicado a documentar mi progreso y aprendizaje en JavaSc
 ## Uso
 
 - consola: node /nombreArchivo.js
+- Nevagador
 
 ## Contenido
 
